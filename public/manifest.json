@@ -1,0 +1,21 @@
+{
+    "short_name": "QuizApp",
+    "name": "QuizApp",
+    "description": "une application de quiz gratuite et open source qui vous permet de jouer à des quiz entièrement personnalisés directement sur votre le navigateur.",
+    "icons": [{
+            "src": "android-chrome-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "android-chrome-192x192.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "orientation": "any",
+    "theme_color": "#1B1C1D",
+    "background_color": "#D0D9DD"
+}
